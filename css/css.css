@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+}
+.section {
+    display: inline-flex;
+
+    flex-wrap: wrap;
+
+}
+.sec {
+width: 30%;
+border:  1px solid black;
+margin-right: 2%;
+margin-bottom: 2%;
+background-color: gray;
+min-width:300px;
+}
+.colr1{
+    background-color: pink;
+    color: black;
+}
+.colr2{
+    background-color: red;
+    color: white;
+}
+.colr3 {
+ background-color: rgb(233, 233, 76);
+ color: black;
+}
+.heading {
+    border: 1px solid black;
+    float: right;
+    width: 30%;
+    margin-left: 70%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+ 
+
+   }
+.para{
+    position: relative;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
+
+}
